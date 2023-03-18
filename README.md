@@ -1,0 +1,2 @@
+# azureresourcenamingtoolexe
+azureresourcenamingtoolexe
